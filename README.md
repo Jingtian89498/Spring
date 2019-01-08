@@ -16,3 +16,17 @@ project structure  引入相关类库  可以直接fix
 prefix suffix  
 - jsp文件  
 
+## 2. bean的装配
+- 自动装配  
+  @ComponentScan  
+  @Componet  
+
+- JavaConfig  
+  @Configuration  
+  @Bean  
+
+- XML  
+  @ContextConfiguration  
+  XML file should be named as xx-context.xml. It should be in the same folder structure as the test class being run.  
+
+- 混合转配  
