@@ -27,6 +27,8 @@ prefix suffix
 
 - XML  
   @ContextConfiguration  
-  XML file should be named as xx-context.xml. It should be in the same folder structure as the test class being run.  
+  XML file should be named as xx-context.xml. It should be in the same folder structure as the test class being run.   
+  P命名空间  property  
+  C命名空间  constructor  
 
-- 混合转配  
+- 混合装配  
