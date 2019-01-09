@@ -12,17 +12,4 @@
         <property name="suffix" value=".jsp" />
     </bean>
 
-    <!--<bean id="compactDisc" class="com.ljt.soundsystem2.Sgtpeppers"/>-->
-
-    <!--c:cd-ref="compactDisc">-->
-    <bean id="player" class="com.ljt.soundsystem2.CDPlayer"
-        c:_0-ref="compactDisc">
-        <!--<constructor-arg ref="compactDisc"/>-->
-    </bean>
-
-    <bean id="compactDisc" class="com.ljt.soundsystem2.BlankDisc">
-        <constructor-arg value="Sgt. Pepper's Lonely Hearts Club Band!"/>
-        <constructor-arg value="The Beatles!"/>
-    </bean>
-
 </beans>
