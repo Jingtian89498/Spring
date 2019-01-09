@@ -32,3 +32,5 @@ prefix suffix
   C命名空间  constructor  
 
 - 混合装配  
+  在JavaConfig中引入XML配置  
+  在XML配置中引用JavaConfig
