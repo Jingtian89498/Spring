@@ -34,3 +34,9 @@ prefix suffix
 - 混合装配  
   在JavaConfig中引入XML配置  
   在XML配置中引用JavaConfig
+  
+## 3. 高级装配
+### 1) profile配置
+ 不同的生产环境不同的配置  
+ @Profile  
+ @ActiveProfiles  
