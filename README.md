@@ -40,3 +40,5 @@ prefix suffix
  不同的生产环境不同的配置  
  @Profile  
  @ActiveProfiles  
+ P.S. Driver for test database type [H2] is not available. TEST失败  
+ 
