@@ -16,6 +16,7 @@ project structure  引入相关类库  可以直接fix
 prefix suffix  
 - jsp文件  
 
+# Spring实战
 ## 2. bean的装配
 - 自动装配  
   @ComponentScan  
@@ -42,3 +43,16 @@ prefix suffix
  @ActiveProfiles  
  P.S. Driver for test database type [H2] is not available. TEST失败  
  
+### 2) 条件化的bean
+  @Conditional  
+  实现Contion接口，Override matches()方法 通过参数ConditionContext 和 AnnotatedTypeMetadata 实现强大的功能  
+  ConditionContext是一个接口  
+  getRegistry()  
+  getBeanFactory()  
+  getEnvironment()   @PropertySource() 加载properties文件    
+  getResourceLoader()  
+  getClassLoader()  
+  AnnotatedTypeMetadata也是一个接口 检测带有@Bean注解的方法上还有什么注解  
+  
+  
+  
