@@ -6,7 +6,43 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e961070e-4d3a-4e52-8ad3-b71e13972851" name="Default" comment="" />
+    <list default="true" id="e961070e-4d3a-4e52-8ad3-b71e13972851" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/resources/cd-config.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/cd-config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/resources/cdplayer-config.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/resources/cdplayer-config.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem/CDPlayer.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soungsystem0/CDPlayer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem/CDPlayerConfig.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soungsystem0/CDPlayerConfig.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem/CDPlayerTest.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soungsystem0/CDPlayerTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem/CompactDisc.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soungsystem0/CompactDisc.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem/MediaPlayer.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soungsystem0/MediaPlayer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem/Sgtpeppers.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soungsystem0/Sgtpeppers.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem1/CDPlayerConfig.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem1/CDPlayerConfig.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem2/BlankDisc.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/BlankDisc.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem2/CDPlayer.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/CDPlayer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem2/CDPlayerConfig.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/CDPlayerConfig.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem2/CNamespaceReferenceTest-context.xml" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/CNamespaceReferenceTest-context.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem2/CNamespaceReferenceTest.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/CNamespaceReferenceTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem2/CNamespaceValueTest-context.xml" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/CNamespaceValueTest-context.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem2/CNamespaceValueTest.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/CNamespaceValueTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem2/CompactDisc.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/CompactDisc.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem2/ConstructorArgReferenceTest-context.xml" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/ConstructorArgReferenceTest-context.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem2/ConstructorArgReferenceTest.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/ConstructorArgReferenceTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem2/ConstructorArgValueTest-context.xml" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/ConstructorArgValueTest-context.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem2/ConstructorArgValueTest.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/ConstructorArgValueTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem2/MediaPlayer.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/MediaPlayer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem2/PNamespaceRefTest-context.xml" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/PNamespaceRefTest-context.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem2/PNamespaceRefTest.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/PNamespaceRefTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem2/Sgtpeppers.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/Sgtpeppers.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem3/BlankDisc.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem3/BlankDisc.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem3/CDConfig.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem3/CDConfig.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem3/CDPlayer.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem3/CDPlayer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem3/CDPlayerConfig.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem3/CDPlayerConfig.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem3/CompactDisc.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem3/CompactDisc.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem3/ImportXmlConfigTest.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem3/ImportXmlConfigTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem3/MediaPlayer.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem3/MediaPlayer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem3/Sgtpeppers.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem3/Sgtpeppers.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/soundsystem3/SoundSystemConfig.java" afterPath="$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem3/SoundSystemConfig.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,62 +53,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="DataSourceConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ljt/profiles/DataSourceConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="19" column="48" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="datasource-config.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/resources/datasource-config.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataSourceConfigTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ljt/profiles/DataSourceConfigTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#745#746#0" expanded="true" />
-                <element signature="e#794#795#0" expanded="true" />
-                <element signature="e#1555#1556#0" expanded="true" />
-                <element signature="e#1604#1605#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MagicExistsCondition.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ljt/conditional/MagicExistsCondition.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="207">
-              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MagicBean.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ljt/conditional/MagicBean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -91,14 +79,74 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MagicExitsTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MagicExitsTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ljt/conditional/MagicExitsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+            <state relative-caret-position="391">
+              <caret line="17" column="39" lean-forward="false" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CDPlayer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soungsystem0/CDPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CDPlayerConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soungsystem0/CDPlayerConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CDPlayerTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soungsystem0/CDPlayerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompactDisc.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soungsystem0/CompactDisc.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MediaPlayer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soungsystem0/MediaPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sgtpeppers.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soungsystem0/Sgtpeppers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -107,17 +155,7 @@
         <entry file="jar://$PROJECT_DIR$/lib/spring-context-4.3.18.RELEASE.jar!/org/springframework/context/annotation/PropertySources.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
-              <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -196,6 +234,7 @@
         <option value="$PROJECT_DIR$/lib/spring-context-4.3.18.RELEASE.jar!/org/springframework/context/annotation/PropertySources.class" />
         <option value="$PROJECT_DIR$/src/com/ljt/conditional/MagicConfig.java" />
         <option value="$PROJECT_DIR$/src/com/ljt/conditional/MagicExitsTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ljt/soundsystem/soungsystem0/Sgtpeppers.java" />
       </list>
     </option>
   </component>
@@ -260,13 +299,6 @@
             <path>
               <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
               <item name="springmvc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ljt" type="462c0819:PsiDirectoryNode" />
-              <item name="conditional" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -274,13 +306,6 @@
               <item name="springmvc" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
@@ -640,7 +665,7 @@
       <workItem from="1546838753902" duration="1383000" />
       <workItem from="1546916169406" duration="11119000" />
       <workItem from="1546999153635" duration="3775000" />
-      <workItem from="1547114594896" duration="10640000" />
+      <workItem from="1547114594896" duration="11982000" />
     </task>
     <servers />
   </component>
@@ -677,7 +702,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29482000" />
+    <option name="totallyTimeSpent" value="30824000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -727,65 +752,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem1/CDPlayerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="23" column="68" lean-forward="false" selection-start-line="23" selection-start-column="68" selection-end-line="23" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#410#411#0" expanded="false" />
-            <element signature="e#449#450#0" expanded="false" />
-            <element signature="e#492#493#0" expanded="false" />
-            <element signature="e#592#593#0" expanded="false" />
-            <element signature="e#739#740#0" expanded="false" />
-            <element signature="e#787#788#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/CDPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/CDPlayerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/MediaPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem2/Sgtpeppers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem2/MediaPlayer.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/MediaPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -825,31 +796,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/resources/ConstructorArgReferenceTest-context.xml" />
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/resources/ConstructorArgValueTest-context.xml" />
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem2/CDPlayerConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/CDPlayerConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#238#239#0" expanded="false" />
-            <element signature="e#277#278#0" expanded="false" />
-            <element signature="e#321#322#0" expanded="false" />
-            <element signature="e#371#372#0" expanded="false" />
+            <element signature="e#250#251#0" expanded="false" />
+            <element signature="e#289#290#0" expanded="false" />
+            <element signature="e#333#334#0" expanded="false" />
+            <element signature="e#383#384#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem2/CDPlayer.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/CDPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem2/CompactDisc.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/CompactDisc.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -861,28 +834,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem2/ConstructorArgValueTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/ConstructorArgValueTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem2/ConstructorArgReferenceTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/ConstructorArgReferenceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem2/BlankDisc.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/BlankDisc.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#353#354#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem2/PNamespaceRefTest-context.xml">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/PNamespaceRefTest-context.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
@@ -890,14 +870,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem2/PNamespaceRefTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/PNamespaceRefTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem2/ConstructorArgReferenceTest-context.xml">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/ConstructorArgReferenceTest-context.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
@@ -905,7 +886,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem2/ConstructorArgValueTest-context.xml">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/ConstructorArgValueTest-context.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="7" column="65" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="65" />
@@ -913,7 +894,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem2/CNamespaceValueTest-context.xml">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/CNamespaceValueTest-context.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
@@ -921,14 +902,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem2/CNamespaceValueTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/CNamespaceValueTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem2/CNamespaceReferenceTest-context.xml">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/CNamespaceReferenceTest-context.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
@@ -936,39 +918,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem2/CNamespaceReferenceTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/CNamespaceReferenceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem3/MediaPlayer.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem3/MediaPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem3/CompactDisc.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem3/CompactDisc.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem3/Sgtpeppers.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem3/Sgtpeppers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="46" lean-forward="false" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
           <folding>
-            <element signature="e#230#231#0" expanded="false" />
-            <element signature="e#302#303#0" expanded="false" />
+            <element signature="e#242#243#0" expanded="false" />
+            <element signature="e#314#315#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem3/BlankDisc.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem3/BlankDisc.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
@@ -976,46 +961,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem3/CDPlayer.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem3/CDPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
           <folding>
-            <element signature="e#223#224#0" expanded="false" />
-            <element signature="e#251#252#0" expanded="false" />
-            <element signature="e#277#278#0" expanded="false" />
-            <element signature="e#302#303#0" expanded="false" />
+            <element signature="e#235#236#0" expanded="false" />
+            <element signature="e#263#264#0" expanded="false" />
+            <element signature="e#289#290#0" expanded="false" />
+            <element signature="e#314#315#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem3/cd-config.xml" />
     <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem3/cdplayer-config.xml" />
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem3/CDConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem3/CDConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#231#232#0" expanded="false" />
-            <element signature="e#270#271#0" expanded="false" />
+            <element signature="e#243#244#0" expanded="false" />
+            <element signature="e#282#283#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem3/CDPlayerConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem3/CDPlayerConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#332#333#0" expanded="false" />
-            <element signature="e#380#381#0" expanded="false" />
+            <element signature="e#344#345#0" expanded="false" />
+            <element signature="e#392#393#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem3/SoundSystemConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem3/SoundSystemConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
@@ -1033,14 +1018,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem3/ImportXmlConfigTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem3/ImportXmlConfigTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#498#499#0" expanded="false" />
-            <element signature="e#527#528#0" expanded="false" />
+            <element signature="e#510#511#0" expanded="false" />
+            <element signature="e#539#540#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1120,7 +1105,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/ljt/conditional/MagicExistsCondition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1130,7 +1115,7 @@
     <entry file="jar://$PROJECT_DIR$/lib/spring-context-4.3.18.RELEASE.jar!/org/springframework/context/annotation/PropertySources.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
-          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -1149,11 +1134,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ljt/conditional/MagicExitsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        <state relative-caret-position="391">
+          <caret line="17" column="39" lean-forward="false" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soungsystem0/CDPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soungsystem0/CDPlayerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soungsystem0/CDPlayerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soungsystem0/CompactDisc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soungsystem0/MediaPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soungsystem0/Sgtpeppers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
