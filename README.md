@@ -54,5 +54,9 @@ prefix suffix
   getClassLoader()  
   AnnotatedTypeMetadata也是一个接口 检测带有@Bean注解的方法上还有什么注解  
   
+ ### 3) 处理自动装配的歧义性
+   NoUniqueBeanDefinitionException  
+   @Primary  
+  
   
   
