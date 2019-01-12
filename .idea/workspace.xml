@@ -7,41 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e961070e-4d3a-4e52-8ad3-b71e13972851" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem/CDPlayer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem/CDPlayerConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem/CDPlayerTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem/CompactDisc.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem/MediaPlayer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem/Sgtpeppers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem1/CDPlayerConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem2/BlankDisc.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem2/CDPlayer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem2/CDPlayerConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem2/CNamespaceReferenceTest-context.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem2/CNamespaceReferenceTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem2/CNamespaceValueTest-context.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem2/CNamespaceValueTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem2/CompactDisc.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem2/ConstructorArgReferenceTest-context.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem2/ConstructorArgReferenceTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem2/ConstructorArgValueTest-context.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem2/ConstructorArgValueTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem2/MediaPlayer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem2/PNamespaceRefTest-context.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem2/PNamespaceRefTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem2/Sgtpeppers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem3/BlankDisc.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem3/CDConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem3/CDPlayer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem3/CDPlayerConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem3/CompactDisc.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem3/ImportXmlConfigTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem3/MediaPlayer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem3/Sgtpeppers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springmvc/com/ljt/soundsystem3/SoundSystemConfig.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/springmvc/cd-config.xml" afterPath="$PROJECT_DIR$/out/test/springmvc/cd-config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/springmvc/cdplayer-config.xml" afterPath="$PROJECT_DIR$/out/test/springmvc/cdplayer-config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ljt/scopebeans/Cake.java" afterPath="$PROJECT_DIR$/src/com/ljt/scopebeans/Cake.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ljt/scopebeans/IceCream.java" afterPath="$PROJECT_DIR$/src/com/ljt/scopebeans/IceCream.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ljt/scopebeans/PrimaryTest.java" afterPath="$PROJECT_DIR$/src/com/ljt/scopebeans/PrimaryTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="DataSourceConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ljt/profiles/DataSourceConfig.java">
+      <file leaf-file-name="PrimaryTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ljt/scopebeans/PrimaryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+            <state relative-caret-position="445">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,56 +33,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Profile.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/spring-context-4.3.18.RELEASE.jar!/org/springframework/context/annotation/Profile.class">
+      <file leaf-file-name="Cold.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ljt/scopebeans/Cold.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProfileCondition.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/spring-context-4.3.18.RELEASE.jar!/org/springframework/context/annotation/ProfileCondition.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ImportXmlConfigTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem3/ImportXmlConfigTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="276">
+              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#510#511#0" expanded="true" />
-                <element signature="e#539#540#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dessert.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ljt/scopebeans/Dessert.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cake.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ljt/scopebeans/Cake.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -122,8 +48,8 @@
       <file leaf-file-name="IceCream.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ljt/scopebeans/IceCream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            <state relative-caret-position="46">
+              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -131,33 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrimaryTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/ljt/scopebeans/PrimaryTest.java">
+      <file leaf-file-name="Cake.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ljt/scopebeans/Cake.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CDPlayerConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem1/CDPlayerConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Config.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ljt/scopebeans/Config.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            <state relative-caret-position="138">
+              <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -174,6 +78,7 @@
         <option value="Jsp File" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -188,7 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/ljt/soundsystem/MeidaPlayer.java" />
         <option value="$PROJECT_DIR$/src/com/ljt/soundsystem/CDPlayerTest.java" />
         <option value="$PROJECT_DIR$/src/com/ljt/soundsystem/CDPlayer.java" />
         <option value="$PROJECT_DIR$/src/com/ljt/soundsystem1/CDPlayerConfig.java" />
@@ -235,8 +139,9 @@
         <option value="$PROJECT_DIR$/src/com/ljt/soundsystem/soungsystem0/Sgtpeppers.java" />
         <option value="$PROJECT_DIR$/lib/spring-context-4.3.18.RELEASE.jar!/org/springframework/context/annotation/Profile.class" />
         <option value="$PROJECT_DIR$/lib/spring-context-4.3.18.RELEASE.jar!/org/springframework/context/annotation/ProfileCondition.class" />
-        <option value="$PROJECT_DIR$/src/com/ljt/scopebeans/Cake.java" />
         <option value="$PROJECT_DIR$/src/com/ljt/scopebeans/Config.java" />
+        <option value="$PROJECT_DIR$/src/com/ljt/scopebeans/Cake.java" />
+        <option value="$PROJECT_DIR$/src/com/ljt/scopebeans/Cold.java" />
         <option value="$PROJECT_DIR$/src/com/ljt/scopebeans/IceCream.java" />
         <option value="$PROJECT_DIR$/src/com/ljt/scopebeans/PrimaryTest.java" />
       </list>
@@ -306,21 +211,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ljt" type="462c0819:PsiDirectoryNode" />
               <item name="scopebeans" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ljt" type="462c0819:PsiDirectoryNode" />
-              <item name="soundsystem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ljt" type="462c0819:PsiDirectoryNode" />
-              <item name="soundsystem" type="462c0819:PsiDirectoryNode" />
-              <item name="soundsystem3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
@@ -691,26 +581,11 @@
       <workItem from="1546838753902" duration="1383000" />
       <workItem from="1546916169406" duration="11119000" />
       <workItem from="1546999153635" duration="3775000" />
-      <workItem from="1547114594896" duration="16278000" />
+      <workItem from="1547114594896" duration="19462000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PrimaryTest_primaryTest - 2019.01.12 at 11h 07m 38s.xml">
-      <configuration name="PrimaryTest.primaryTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PrimaryTest_primaryTest - 2019.01.12 at 11h 08m 12s.xml">
-      <configuration name="PrimaryTest.primaryTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PrimaryTest_primaryTest - 2019.01.12 at 11h 11m 29s.xml">
-      <configuration name="PrimaryTest.primaryTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PrimaryTest_primaryTest - 2019.01.12 at 11h 11m 44s.xml">
-      <configuration name="PrimaryTest.primaryTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PrimaryTest_primaryTest - 2019.01.12 at 11h 12m 03s.xml">
-      <configuration name="PrimaryTest.primaryTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PrimaryTest_primaryTest - 2019.01.12 at 11h 16m 15s.xml">
       <configuration name="PrimaryTest.primaryTest" configurationId="JUnit" />
     </history-entry>
@@ -726,9 +601,24 @@
     <history-entry file="PrimaryTest_primaryTest - 2019.01.12 at 11h 31m 29s.xml">
       <configuration name="PrimaryTest.primaryTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PrimaryTest_primaryTest - 2019.01.12 at 15h 05m 06s.xml">
+      <configuration name="PrimaryTest.primaryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimaryTest_primaryTest - 2019.01.12 at 15h 05m 20s.xml">
+      <configuration name="PrimaryTest.primaryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimaryTest_primaryTest - 2019.01.12 at 15h 06m 11s.xml">
+      <configuration name="PrimaryTest.primaryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimaryTest_primaryTest - 2019.01.12 at 15h 10m 41s.xml">
+      <configuration name="PrimaryTest.primaryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimaryTest_primaryTest - 2019.01.12 at 15h 11m 09s.xml">
+      <configuration name="PrimaryTest.primaryTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35120000" />
+    <option name="totallyTimeSpent" value="38304000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -753,7 +643,7 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26877683" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -779,14 +669,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem2/CompactDisc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -1038,9 +920,9 @@
         <state relative-caret-position="138">
           <caret line="6" column="48" lean-forward="false" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#382#383#0" expanded="false" />
+            <element signature="e#420#421#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1050,7 +932,7 @@
         <state relative-caret-position="391">
           <caret line="17" column="39" lean-forward="false" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1124,28 +1006,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/profiles/DataSourceConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/lib/spring-context-4.3.18.RELEASE.jar!/org/springframework/context/annotation/Profile.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/spring-context-4.3.18.RELEASE.jar!/org/springframework/context/annotation/ProfileCondition.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
           <folding />
         </state>
       </provider>
@@ -1158,23 +1022,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem1/CDPlayerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem3/ImportXmlConfigTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
-          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <caret line="19" column="5" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="19" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#510#511#0" expanded="true" />
             <element signature="e#539#540#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spring-context-4.3.18.RELEASE.jar!/org/springframework/context/annotation/ProfileCondition.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/profiles/DataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/scopebeans/Dessert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/soundsystem/soundsystem1/CDPlayerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1190,24 +1080,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ljt/scopebeans/Cake.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-          <folding />
+        <state relative-caret-position="138">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/scopebeans/Dessert.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/scopebeans/Cold.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-          <folding />
+        <state relative-caret-position="276">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ljt/scopebeans/IceCream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        <state relative-caret-position="46">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1216,8 +1110,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ljt/scopebeans/PrimaryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="445">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -5,5 +5,6 @@ import org.springframework.stereotype.Component;
 
 @Component
 @Primary
+@Cold
 public class IceCream implements Dessert {
 }
