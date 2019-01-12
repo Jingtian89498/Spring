@@ -57,6 +57,9 @@ prefix suffix
  ### 3) 处理自动装配的歧义性
    NoUniqueBeanDefinitionException  
    @Primary  
+     
+   @Qualifier  以及创建自定义的限定符注解  
+   
   
   
   
