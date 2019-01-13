@@ -60,6 +60,12 @@ prefix suffix
      
    @Qualifier  以及创建自定义的限定符注解  
    
+### 4) bean的作用域
+  单例(Singleton)   
+  原型(Prototype)  
+  会话(Session)  
+  请求(Request)  
+   
   
   
   
