@@ -1,4 +1,4 @@
-package com.ljt.scopebeans;
+package com.ljt.qualifier;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 

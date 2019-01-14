@@ -1,4 +1,4 @@
-package com.ljt.scopebeans;
+package com.ljt.qualifier;
 
 public interface Dessert {
 }

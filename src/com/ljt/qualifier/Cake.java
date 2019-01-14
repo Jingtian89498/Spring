@@ -1,4 +1,4 @@
-package com.ljt.scopebeans;
+package com.ljt.qualifier;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;

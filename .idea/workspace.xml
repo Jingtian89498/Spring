@@ -7,9 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e961070e-4d3a-4e52-8ad3-b71e13972851" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ljt/scopebeans/Cake.java" afterPath="$PROJECT_DIR$/src/com/ljt/scopebeans/Cake.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ljt/scopebeans/IceCream.java" afterPath="$PROJECT_DIR$/src/com/ljt/scopebeans/IceCream.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/ljt/scopebeans/PrimaryTest.java" afterPath="$PROJECT_DIR$/src/com/ljt/scopebeans/PrimaryTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/scopebeans/Cake.java" afterPath="$PROJECT_DIR$/src/com/ljt/qualifier/Cake.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/scopebeans/Cold.java" afterPath="$PROJECT_DIR$/src/com/ljt/qualifier/Cold.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/scopebeans/Config.java" afterPath="$PROJECT_DIR$/src/com/ljt/qualifier/Config.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/scopebeans/Dessert.java" afterPath="$PROJECT_DIR$/src/com/ljt/qualifier/Dessert.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/scopebeans/IceCream.java" afterPath="$PROJECT_DIR$/src/com/ljt/qualifier/IceCream.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/ljt/scopebeans/PrimaryTest.java" afterPath="$PROJECT_DIR$/src/com/ljt/qualifier/PrimaryTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="PrimaryTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/ljt/scopebeans/PrimaryTest.java">
+      <file leaf-file-name="PrimaryTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ljt/qualifier/PrimaryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="292">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cold.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ljt/scopebeans/Cold.java">
+      <file leaf-file-name="Cold.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ljt/qualifier/Cold.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+            <state relative-caret-position="253">
+              <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,7 +50,7 @@
         </entry>
       </file>
       <file leaf-file-name="IceCream.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ljt/scopebeans/IceCream.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ljt/qualifier/IceCream.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
               <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
@@ -58,7 +62,7 @@
         </entry>
       </file>
       <file leaf-file-name="Cake.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ljt/scopebeans/Cake.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ljt/qualifier/Cake.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="138">
               <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
@@ -93,7 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/ljt/soundsystem/CDPlayerTest.java" />
         <option value="$PROJECT_DIR$/src/com/ljt/soundsystem/CDPlayer.java" />
         <option value="$PROJECT_DIR$/src/com/ljt/soundsystem1/CDPlayerConfig.java" />
         <option value="$PROJECT_DIR$/src/com/ljt/soundsystem2/CDPlayerTest.java" />
@@ -144,6 +147,7 @@
         <option value="$PROJECT_DIR$/src/com/ljt/scopebeans/Cold.java" />
         <option value="$PROJECT_DIR$/src/com/ljt/scopebeans/IceCream.java" />
         <option value="$PROJECT_DIR$/src/com/ljt/scopebeans/PrimaryTest.java" />
+        <option value="$PROJECT_DIR$/src/com/ljt/qualifier/Cold.java" />
       </list>
     </option>
   </component>
@@ -204,13 +208,6 @@
               <item name="springmvc" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ljt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ljt" type="462c0819:PsiDirectoryNode" />
-              <item name="scopebeans" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
@@ -372,15 +369,15 @@
     <configuration name="PrimaryTest.primaryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.ljt.scopebeans.*" />
+          <option name="PATTERN" value="com.ljt.qualifier.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="springmvc" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.ljt.scopebeans" />
-      <option name="MAIN_CLASS_NAME" value="com.ljt.scopebeans.PrimaryTest" />
+      <option name="PACKAGE_NAME" value="com.ljt.qualifier" />
+      <option name="MAIN_CLASS_NAME" value="com.ljt.qualifier.PrimaryTest" />
       <option name="METHOD_NAME" value="primaryTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -581,7 +578,7 @@
       <workItem from="1546838753902" duration="1383000" />
       <workItem from="1546916169406" duration="11119000" />
       <workItem from="1546999153635" duration="3775000" />
-      <workItem from="1547114594896" duration="19462000" />
+      <workItem from="1547114594896" duration="21853000" />
     </task>
     <servers />
   </component>
@@ -618,11 +615,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38304000" />
+    <option name="totallyTimeSpent" value="40695000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -646,7 +642,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26877683" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26877683" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1052,7 +1048,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/scopebeans/Dessert.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/qualifier/Dessert.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
@@ -1068,7 +1064,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/scopebeans/Config.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/qualifier/Config.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
@@ -1078,7 +1074,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/scopebeans/Cake.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/qualifier/Cake.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
@@ -1088,17 +1084,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/scopebeans/Cold.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/scopebeans/IceCream.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/qualifier/IceCream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
@@ -1108,10 +1094,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ljt/scopebeans/PrimaryTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/qualifier/PrimaryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="292">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ljt/qualifier/Cold.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
