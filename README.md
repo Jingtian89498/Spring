@@ -69,6 +69,10 @@ prefix suffix
 ### 5) 运行时注入
   属性占位符 和 Spring表达式语言
    
-  
+## 4 面向切面的Spring
+  Advice 通知 -- 切面的工作 什么与何时  
+  Pointcut 切点  何处   
+  Aspect 切面 切点和通知的结合。  
+  Joint Point 连接点 在应用执行过程中能插入切面的一个点  
   
   
