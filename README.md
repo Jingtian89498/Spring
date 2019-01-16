@@ -75,4 +75,8 @@ prefix suffix
   Aspect 切面 切点和通知的结合。  
   Joint Point 连接点 在应用执行过程中能插入切面的一个点  
   
+  需要引入jar包  aspectjweave  
+  @Aspect  @Before @After @AfterReturning @AfterThrowing @Around @Pointcut  
+  
+  
   
