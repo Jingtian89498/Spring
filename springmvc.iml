@@ -38,5 +38,6 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="aspectj:aspectjweaver:1.5.3" level="project" />
   </component>
 </module>
