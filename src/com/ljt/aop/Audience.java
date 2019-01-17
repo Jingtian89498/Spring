@@ -1,8 +1,6 @@
 package com.ljt.aop;
 
-import org.aspectj.lang.annotation.Aspect;
-import org.aspectj.lang.annotation.Before;
-import org.aspectj.lang.annotation.Pointcut;
+import org.aspectj.lang.annotation.*;
 
 
 @Aspect
@@ -21,6 +19,17 @@ public class Audience {
     @Before("performance()")
     public void takeSeats(){
         System.out.println("Taking seats");
+    }
+
+
+    @After("performance()")
+    public void leave(){
+        System.out.println("Leaving");
+    }
+
+    @AfterThrowing("performance()")
+    public void demandRefund(){
+        System.out.println("Deamnding a refund");
     }
 
 }
